@@ -2,4 +2,4 @@ print ("Hello world")
 
 print ("hello guys")
 
-jjj
+print ("automatic updates")
